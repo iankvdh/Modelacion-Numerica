@@ -2,7 +2,7 @@
 
 Este repositorio contiene el desarrollo completo del Trabajo Práctico I para la materia **Métodos Matemáticos y Numéricos (95.13)**, cursada con los profesores Cavaliere y Mastropietro.
 
-## 📘 Descripción
+## Descripción
 
 El objetivo del trabajo es modelar y resolver numéricamente el perfil de temperaturas en el espesor de una tubería de un pozo HPHT (High Pressure - High Temperature) durante una operación de extracción de petróleo.
 
@@ -13,7 +13,7 @@ Se busca:
 - Comparar resultados contra la solución analítica.
 - Resolver el problema mediante un método directo por diferencias finitas.
 
-## 🧠 Contenidos principales
+## Contenidos principales
 
 - Modelado físico del problema
 - Resolución mediante:
@@ -24,7 +24,7 @@ Se busca:
 - Estimación de errores y orden de precisión
 - Comparación gráfica y tabular de resultados
 
-## 👨‍🔬 Autores
+## Autores
 
 | Nombre          | Apellido      | Mail                  | Padrón |
 | --------------- | ------------- | --------------------- | ------ |
